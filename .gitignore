@@ -1,5 +1,5 @@
 node_modules
-
+leadmanager/frontend/static/frontend/main.js
 ### Django ###
 *.log
 *.pot
