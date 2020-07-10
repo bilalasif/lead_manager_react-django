@@ -8,7 +8,6 @@ export const createMessage = msg => {
     };
 }
 export const returnErrors = (msg, status) => {
-    console.log(msg, status)
     return {
         type: GET_ERRORS,
         payload: { msg, status }
